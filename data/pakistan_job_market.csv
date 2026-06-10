@@ -1,0 +1,41 @@
+job_id,title,company,city,experience_years,salary_pkr,skills,remote,education,posted_date
+J001,Data Analyst,TechCorp,Karachi,2,85000,Python;SQL;Excel,No,Bachelors,2024-01-10
+J002,ML Engineer,Systems Ltd,Lahore,4,150000,Python;TensorFlow;Scikit-learn,Yes,Masters,2024-01-12
+J003,Frontend Developer,Netsol,Islamabad,1,60000,React;HTML;CSS,No,Bachelors,2024-01-15
+J004,Backend Developer,Arbisoft,Lahore,3,120000,Python;Django;PostgreSQL,Yes,Bachelors,2024-01-18
+J005,AI Engineer,10Pearls,Karachi,5,200000,LangChain;GPT;Python,Yes,Masters,2024-01-20
+J006,Data Scientist,Gaditek,Islamabad,3,130000,Python;R;ML;SQL,No,Masters,2024-01-22
+J007,DevOps Engineer,Zones LLC,Lahore,4,140000,AWS;Docker;Kubernetes,Yes,Bachelors,2024-01-25
+J008,React Developer,Contour Software,Karachi,2,75000,React;TypeScript;GraphQL,Yes,Bachelors,2024-01-28
+J009,Python Developer,VentureDive,Islamabad,2,90000,Python;FastAPI;SQL,No,Bachelors,2024-02-01
+J010,Data Engineer,Folio3,Lahore,4,155000,Spark;Kafka;Python,Yes,Masters,2024-02-04
+J011,LLM Engineer,Xavor,Karachi,3,180000,LangChain;OpenAI;Python,Yes,Masters,2024-02-06
+J012,Business Analyst,PakWheels,Islamabad,2,70000,Excel;SQL;PowerBI,No,Bachelors,2024-02-09
+J013,Flutter Developer,Invozone,Lahore,2,80000,Flutter;Dart;Firebase,No,Bachelors,2024-02-12
+J014,Cloud Engineer,LMKR,Karachi,5,190000,AWS;Azure;Terraform,Yes,Masters,2024-02-15
+J015,Data Analyst,Daraz,Islamabad,1,65000,SQL;Excel;Tableau,No,Bachelors,2024-02-18
+J016,NLP Engineer,Techlogix,Lahore,4,165000,Python;NLTK;HuggingFace,Yes,PhD,2024-02-20
+J017,Fullstack Developer,Epiphany,Karachi,3,110000,React;Node;MongoDB,Yes,Bachelors,2024-02-23
+J018,AI Research Engineer,FAST-NUCES,Islamabad,6,220000,PyTorch;CUDA;C++,No,PhD,2024-02-26
+J019,SQL Developer,i2c Inc,Lahore,2,72000,SQL;PLSQL;Oracle,No,Bachelors,2024-03-01
+J020,Product Manager,Careem,Karachi,5,250000,Agile;Jira;Analytics,No,MBA,2024-03-04
+J021,Data Scientist,Jazz,Lahore,4,145000,Python;ML;Spark,Yes,Masters,2024-03-07
+J022,AI Agent Developer,Weavers Lab,Islamabad,3,175000,LangChain;GPT-4;Python,Yes,Masters,2024-03-10
+J023,React Native Dev,Softech,Karachi,2,82000,React Native;JavaScript,No,Bachelors,2024-03-13
+J024,ML Ops Engineer,PostEx,Lahore,3,135000,MLflow;Docker;AWS,Yes,Masters,2024-03-16
+J025,Data Analyst,Bykea,Islamabad,1,60000,Python;Excel;SQL,No,Bachelors,2024-03-19
+J026,Generative AI Dev,Encoders,Karachi,2,160000,OpenAI;LangChain;RAG,Yes,Bachelors,2024-03-22
+J027,Node.js Developer,Programmers Force,Lahore,2,78000,Node;Express;MongoDB,No,Bachelors,2024-03-25
+J028,Data Engineer,Tkxel,Islamabad,4,148000,Python;Airflow;BigQuery,Yes,Masters,2024-03-28
+J029,CV Engineer,Securiport,Karachi,3,140000,Python;OpenCV;PyTorch,Yes,Masters,2024-04-01
+J030,BI Developer,Haier Pakistan,Lahore,3,95000,PowerBI;SQL;DAX,No,Bachelors,2024-04-04
+J031,AI Engineer,Meezan Bank,Islamabad,4,185000,Python;LLMs;FastAPI,No,Masters,2024-04-07
+J032,Software Engineer,Troon Technologies,Karachi,2,85000,Java;Spring;SQL,No,Bachelors,2024-04-10
+J033,Data Scientist,Unilever PK,Lahore,5,170000,Python;Statistics;Tableau,No,Masters,2024-04-13
+J034,LLM Fine-tuning Eng,CodeX,Islamabad,4,195000,Python;HuggingFace;LoRA,Yes,Masters,2024-04-16
+J035,Data Analyst,HBL,Karachi,3,90000,SQL;Excel;PowerBI,No,Bachelors,2024-04-19
+J036,Chatbot Developer,Inbox Business,Lahore,2,105000,Python;LangChain;WhatsApp API,Yes,Bachelors,2024-04-22
+J037,Python ML Engineer,RemoteFirst,Islamabad,3,155000,Scikit-learn;Pandas;FastAPI,Yes,Bachelors,2024-04-25
+J038,Data Analyst,Alibaba PK,Karachi,2,80000,SQL;Python;Excel,No,Bachelors,2024-04-28
+J039,AI Product Manager,Sybrid,Lahore,5,230000,AI;Agile;Analytics,No,MBA,2024-05-01
+J040,RAG Engineer,TechGenix,Islamabad,3,170000,LangChain;Pinecone;OpenAI,Yes,Masters,2024-05-04
