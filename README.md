@@ -22,7 +22,7 @@
 ---
 
 ## 🎥 Demo Link Vercel
-https://ai-data-analyst-mw7d.vercel.app/
+https://ai-data-analyst-7bi765snb-tanzeela-memons-projects.vercel.app/
 
 
 ---
